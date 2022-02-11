@@ -1,1 +1,2 @@
-# Invasion-Pirata-1.0
+# Invasion-Pirata-etapa5
+se agregó la animación del sprite
